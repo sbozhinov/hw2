@@ -1,0 +1,224 @@
+
+List size 500 =================================================== List size 500
+
+Sorted list >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Sorted list, Selection Sort 
+Time elapsed: 2.3580783E15 seconds
+Total data assigns: 126746 Total Operations: 502498
+
+Sorted list , Smart Bubble Sort
+Time elapsed: 2.05569E13 seconds
+Total data assigns: 0 Total Operations: 1505
+
+Sorted list , Shift Insertion Sort
+Time elapsed: 2.24048E13 seconds
+Total data assigns: 998 Total Operations: 2499
+
+Sorted list , Insertion Sort
+Time elapsed: 2.19043E13 seconds
+Total data assigns: 0 Total Operations: 2499
+
+Descending List <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Descending list , Selection Sort
+Time elapsed: 1.042089E14 seconds
+Total data assigns: 126746 Total Operations: 502498
+
+Descending list , Smart Bubble Sort
+Time elapsed: 9.446172E14 seconds
+Total data assigns: 374250 Total Operations: 1374753
+
+Descending list , Shift Insertion Sort
+Time elapsed: 1.0127168E15 seconds
+Total data assigns: 125748 Total Operations: 376749
+
+Descending list , Insertion Sort
+Time elapsed: 8.583859E14 seconds
+Total data assigns: 2994 Total Operations: 254494
+
+Random List ?????????????????????????????????????????
+
+Random list , Selection Sort
+Time elapsed: 9.57398E13 seconds
+Total data assigns: 126746 Total Operations: 502498
+
+Random list , Smart Bubble Sort
+Time elapsed: 4.025537E14 seconds
+Total data assigns: 186978 Total Operations: 1034095
+
+Random list , Shift Insertion Sort
+Time elapsed: 9.745672E14 seconds
+Total data assigns: 63324 Total Operations: 189477
+
+Random list , Insertion Sort
+Time elapsed: 8.141154E14 seconds
+Total data assigns: 2970 Total Operations: 129626
+
+List size 1000 =================================================== List size 1000
+
+Sorted list >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Sorted list, Selection Sort 
+Time elapsed: 4.361992E14 seconds
+Total data assigns: 503496 Total Operations: 2004998
+
+Sorted list , Smart Bubble Sort
+Time elapsed: 4.0036E12 seconds
+Total data assigns: 0 Total Operations: 3005
+
+Sorted list , Shift Insertion Sort
+Time elapsed: 5.12E12 seconds
+Total data assigns: 1998 Total Operations: 4999
+
+Sorted list , Insertion Sort
+Time elapsed: 4.581E12 seconds
+Total data assigns: 0 Total Operations: 4999
+
+Descending List <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Descending list , Selection Sort
+Time elapsed: 4.554474E14 seconds
+Total data assigns: 503496 Total Operations: 2004998
+
+Descending list , Smart Bubble Sort
+Time elapsed: 1.0500195E15 seconds
+Total data assigns: 1498500 Total Operations: 5499503
+
+Descending list , Shift Insertion Sort
+Time elapsed: 4.64417E14 seconds
+Total data assigns: 501498 Total Operations: 1503499
+
+Descending list , Insertion Sort
+Time elapsed: 4.063263E14 seconds
+Total data assigns: 5994 Total Operations: 1008994
+
+Random List ?????????????????????????????????????????
+
+Random list , Selection Sort
+Time elapsed: 4.570256E14 seconds
+Total data assigns: 503496 Total Operations: 2004998
+
+Random list , Smart Bubble Sort
+Time elapsed: 1.7037602E15 seconds
+Total data assigns: 766287 Total Operations: 4144058
+
+Random list , Shift Insertion Sort
+Time elapsed: 2.095343E14 seconds
+Total data assigns: 257427 Total Operations: 771286
+
+Random list , Insertion Sort
+Time elapsed: 2.609265E14 seconds
+Total data assigns: 5958 Total Operations: 520822
+
+List size 5000 =================================================== List size 5000
+
+Sorted list >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Sorted list, Selection Sort 
+Time elapsed: 1.14100504E16 seconds
+Total data assigns: 12517496 Total Operations: 50024998
+
+Sorted list , Smart Bubble Sort
+Time elapsed: 1.60144E13 seconds
+Total data assigns: 0 Total Operations: 15005
+
+Sorted list , Shift Insertion Sort
+Time elapsed: 1.60144E13 seconds
+Total data assigns: 9998 Total Operations: 24999
+
+Sorted list , Insertion Sort
+Time elapsed: 1.68998E13 seconds
+Total data assigns: 0 Total Operations: 24999
+
+Descending List <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Descending list , Selection Sort
+Time elapsed: 1.18187635E16 seconds
+Total data assigns: 12517496 Total Operations: 50024998
+
+Descending list , Smart Bubble Sort
+Time elapsed: 2.64431225E16 seconds
+Total data assigns: 37492500 Total Operations: 137497503
+
+Descending list , Shift Insertion Sort
+Time elapsed: 1.15716185E16 seconds
+Total data assigns: 12507498 Total Operations: 37517499
+
+Descending list , Insertion Sort
+Time elapsed: 1.04768281E16 seconds
+Total data assigns: 29994 Total Operations: 25044994
+
+Random List ?????????????????????????????????????????
+
+Random list , Selection Sort
+Time elapsed: 1.17326092E16 seconds
+Total data assigns: 12517496 Total Operations: 50024998
+
+Random list , Smart Bubble Sort
+Time elapsed: 4.78673548E16 seconds
+Total data assigns: 18819363 Total Operations: 105460486
+
+Random list , Shift Insertion Sort
+Time elapsed: 6.1540244E15 seconds
+Total data assigns: 6283119 Total Operations: 18844362
+
+Random list , Insertion Sort
+Time elapsed: 1.05027359E16 seconds
+Total data assigns: 29958 Total Operations: 12596206
+
+List size 10000 =================================================== List size 10000
+
+Sorted list >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Sorted list, Selection Sort 
+Time elapsed: 4.5833991E16 seconds
+Total data assigns: 50034996 Total Operations: 200049998
+
+Sorted list , Smart Bubble Sort
+Time elapsed: 3.28372E13 seconds
+Total data assigns: 0 Total Operations: 30005
+
+Sorted list , Shift Insertion Sort
+Time elapsed: 3.55319E13 seconds
+Total data assigns: 19998 Total Operations: 49999
+
+Sorted list , Insertion Sort
+Time elapsed: 3.16438E13 seconds
+Total data assigns: 0 Total Operations: 49999
+
+Descending List <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Descending list , Selection Sort
+Time elapsed: 4.70573199E16 seconds
+Total data assigns: 50034996 Total Operations: 200049998
+
+Descending list , Smart Bubble Sort
+Time elapsed: 1.056841411E17 seconds
+Total data assigns: 149985000 Total Operations: 549995003
+
+Descending list , Shift Insertion Sort
+Time elapsed: 4.8106531E16 seconds
+Total data assigns: 50014998 Total Operations: 150034999
+
+Descending list , Insertion Sort
+Time elapsed: 4.22180527E16 seconds
+Total data assigns: 59994 Total Operations: 100089994
+
+Random List ?????????????????????????????????????????
+
+Random list , Selection Sort
+Time elapsed: 4.71383542E16 seconds
+Total data assigns: 50034996 Total Operations: 200049998
+
+Random list , Smart Bubble Sort
+Time elapsed: 1.943252135E17 seconds
+Total data assigns: 74723949 Total Operations: 423329836
+
+Random list , Shift Insertion Sort
+Time elapsed: 2.50778969E16 seconds
+Total data assigns: 24927981 Total Operations: 74773948
+
+Random list , Insertion Sort
+Time elapsed: 4.47566392E16 seconds
+Total data assigns: 59922 Total Operations: 49915900
